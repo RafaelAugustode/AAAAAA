@@ -5,5 +5,5 @@ function nome = $primeiro =>{
 }
 
 nome("Rafael Augusto");
-echo "Busatto viado";
+echo "Rafael Viado";
 ?>
